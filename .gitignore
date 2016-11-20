@@ -8,5 +8,5 @@ aot/*
 dist/*
 yarn.lock
 
-+#doc
- +/doc
++#docs
+ +/docs
